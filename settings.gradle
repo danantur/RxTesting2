@@ -1,0 +1,3 @@
+rootProject.name = "RxTesting"
+include ':app'
+include ':contec-sdk'

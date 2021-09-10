@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxTesting</string>
+    <string name="main_button">Начать сканирование</string>
+    <string name="stop_button">Остановить сканирование</string>
+    <string name="finger_out">Finger out</string>
+    <string name="data_waiting">Ожидаем данные</string>
+</resources>
